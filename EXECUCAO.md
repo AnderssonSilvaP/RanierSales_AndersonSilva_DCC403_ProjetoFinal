@@ -69,4 +69,4 @@ qemu-system-i386 -drive format=raw,file=disk/disk.img,if=ide -boot order=c
 ## 👨‍💻 Autores
 
 - [Ranier Sales](https://github.com/RanierSales)
-- [Anderson Silva](https://github.com/Moab76)
+- [Anderson Silva](https://github.com/AnderssonSilvaP)
