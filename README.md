@@ -70,4 +70,4 @@ Projeto desenvolvido como parte da disciplina **DCC403 - Sistemas Operacionais I
 
 Projeto acadêmico da disciplina DCC403 - Sistemas Operacionais I
 Universidade Federal de Roraima – Departamento de Ciência da Computação
-Alunos: [Ranier Sales](https://github.com/RanierSales) e [Anderson Silva](https://github.com/Moab76)
+Alunos: [Ranier Sales](https://github.com/RanierSales) e [Anderson Silva](https://github.com/AnderssonSilvaP)
